@@ -19,6 +19,12 @@ const DUMMY_EXPENSES = [
   },
   {
     id: "e4",
+    title: "home loan",
+    amount: 294.67,
+    date: new Date(2021, 2, 15),
+  },
+  {
+    id: "e4",
     title: "New Desk (Wooden)",
     amount: 450,
     date: new Date(2021, 5, 12),
