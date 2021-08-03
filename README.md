@@ -3,8 +3,13 @@ A tool which displays a list of expenses a person has done. You can filter the e
 ## Installation
 First Clone this repository.
 ```
-https://github.com/akash-268/Expense-Tracker.git
+$ git https://github.com/akash-268/Expense-Tracker.git
 ```
-Extract it.
-Open the terminal 
-then npm install and then npm start
+Install the Dependencies. Make sure you have [nodejs](https://nodejs.org/en/) & [npm](https://www.npmjs.com/) installed in your system.
+```
+npm install
+```
+Run it.
+```
+npm start
+```
